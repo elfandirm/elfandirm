@@ -1,5 +1,5 @@
 ## Hi there folks👋
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=elfandirm&theme=dark&border_radius=2.5&locale=jv)](https://git.io/streak-stats)
 <!--
 **elfandirm/elfandirm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
